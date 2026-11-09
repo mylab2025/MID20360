@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "POSITIVE NAND GATE IC",
+        "PN": "XL74LS00",
+        "MF": "XINLUDA"
+      },
+      "MID": "MID20360",
+      "MD": "The Xinluda XL74LS00 is a quad 2-input positive-NAND gate integrated circuit (IC) belonging to the Low-power Schottky TTL (74LS) family. It is a direct functional and pin-compatible equivalent to industry-standard 74LS00 logic chips",
+      "MT": "Electronic Material",
+      "MQNT": 8,
+      "MCost": 40.0,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20360%2Fmain%2FXL74LS00.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20360/main/IMG_20261109_112040.jpg"
+      ]
+    }
+  ]
+}
